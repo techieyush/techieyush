@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ayushcs.net@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am  good at Web Technologies!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
