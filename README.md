@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techieyush&label=Profile%20views&color=0e75b6&style=flat" alt="techieyush" /> </p>
 
-- 💬 Ask me about **Java,Javascript,React,NodeJS**
+- 💬 Ask me about **Java,Javascript,React,NodeJS,MongoDB**
 
 - 📫 How to reach me **ayushcs.net@gmail.com**
 
